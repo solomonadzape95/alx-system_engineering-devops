@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Uma
+ls -am
